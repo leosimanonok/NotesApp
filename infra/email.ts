@@ -1,0 +1,1 @@
+export const email = sst.aws.Email.get("my_email", "leo@simanonok.net");
